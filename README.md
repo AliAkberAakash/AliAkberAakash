@@ -1,4 +1,4 @@
-[Ali Akber's Github Banner](cover.png)
+![Ali Akber's Github Banner](cover.png)
 
 Hello there! 
 
