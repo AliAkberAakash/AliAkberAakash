@@ -8,4 +8,7 @@ I’m Ali Aber, a software engineer, creative coder and self-proclaimed designer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAkberAakash&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
 
+<a href="https://github.com/AliAkberAakash">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AliAkberAakash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ali Akber's GitHub Stats" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAkberAakash&" alt="AliAkberAakash"/></p>
